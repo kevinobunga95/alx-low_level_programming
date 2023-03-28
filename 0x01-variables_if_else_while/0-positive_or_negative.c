@@ -4,8 +4,11 @@
 /* more headers goes there */
 /* betty style doc for function main goes there */
 /*
-main - entry point
-*/ 
+/*
+* this is my main
+* entry point
+* I close it
+*/
 int main(void)
 {
 int n;
