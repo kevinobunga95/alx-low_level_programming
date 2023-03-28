@@ -3,9 +3,7 @@
 #include <stdio.h>
 /* more headers goes there */
 /* betty style doc for function main goes there */
-/* 
-*int main(void)
-*/
+/*main - entry point*/ int main(void)
 {
 int n;
 srand(time(0));
