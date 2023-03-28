@@ -5,6 +5,9 @@
 /* betty style doc for function main goes there */
 /*
 * main - Entry point
+* these are comments
+* my last comments
+* close it
 */
 int main(void)
 {
