@@ -21,4 +21,3 @@ dest[dest_len] = src[i];
 dest[dest_len] = '\0';
 return (dest);
 }
-
